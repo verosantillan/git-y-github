@@ -1,2 +1,2 @@
-# git-y-github
+# Git y GitHub
 Proyecto nuevo de juguete
